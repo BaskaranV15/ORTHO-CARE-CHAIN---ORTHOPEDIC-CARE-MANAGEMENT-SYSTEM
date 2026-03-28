@@ -179,6 +179,21 @@ Deletion is handled in cascaded order to respect all foreign key constraints. De
 
 ---
 
+## Output
+<img width="1909" height="970" alt="image" src="https://github.com/user-attachments/assets/c640b9d2-9f57-4c41-863f-114d7e1b0439" />
+<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/9eae65e3-9745-46c0-ad42-ed7f562d9d5a" />
+<img width="1919" height="976" alt="image" src="https://github.com/user-attachments/assets/92d7592e-e13b-4156-b2d9-6d173fb74456" />
+<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/a4481e4b-867f-402b-be8f-1a1da1f461d4" />
+<img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/51cc66e5-391f-4ff7-865f-3b9579b2c8fa" />
+<img width="445" height="839" alt="image" src="https://github.com/user-attachments/assets/f41c2ba0-4edd-426c-945c-4ab3a1cdf454" />
+
+
+
+
+
+
+
+
 ## Installation and Setup
 
 ### Clone Repository
