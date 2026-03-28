@@ -6,7 +6,7 @@ OrthoCareChain is an enterprise-grade, role-based orthopedic healthcare manageme
 
 ## Executive Summary
 
-OrthoCareChain provides a centralized platform for managing orthopedic patient workflows. The application ensures secure authentication, structured visit-based medical records, scalable cloud image storage, automated patient notifications, and AES-256-GCM encryption for sensitive patient data at rest.
+OrthoCareChain provides a centralized platform for managing orthopedic patient workflows. The application ensures secure authentication, structured visit-based medical records, scalable cloud image storage, automated patient notifications.
 
 The system is built using a layered backend architecture with secure JWT-based authentication and role-based authorization. It demonstrates best practices in REST API development, relational database modeling, field-level data encryption, and full-stack system design.
 
@@ -237,7 +237,7 @@ Frontend runs at http://localhost:5173
 - Full audit logging and compliance tracking
 - Multi-hospital and multi-branch support
 - Mobile application for patient access
-
+- AES-256-GCM encryption for sensitive patient data at rest
 ---
 
 ## About the Name
