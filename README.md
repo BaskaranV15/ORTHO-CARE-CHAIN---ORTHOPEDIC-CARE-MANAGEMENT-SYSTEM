@@ -21,7 +21,7 @@ REST API Layer (Spring Boot Controllers)
         ↓
 Business Logic Layer (Service Layer)
         ↓
-Data Access Layer (Repository Layer - JPA / AttributeConverter - AES-256-GCM)
+Data Access Layer (Repository Layer - JPA )
         ↓
 Relational Database (MySQL - Encrypted sensitive columns)
 ```
